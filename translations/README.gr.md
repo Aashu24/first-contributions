@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
+*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](../README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
 
 Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 
@@ -109,14 +109,12 @@ git push origin master
 
 ## Tutorials Χρησιμοποιώντας Άλλα Εργαλεία
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 
 ## Επόμενα βήματα
-
-Θα βρείτε πολλές φιλικές για αρχάριους εργασίες εδω: [contributor.ninja](https://contributor.ninja).
 
 Εδώ είναι μερικές σχετικά εύκολες εργασίες για αρχαρίους οπου μπορείτε να φέρετε εις πέρας. Συνεχίστε και ρίξτε μια ματιά στα παρακάτω για να μάθετε περισσότερα:
 
@@ -129,3 +127,8 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+
+## Προώθηση του πρότζεκτ
+
+Αν σας άρεσε το πρότζεκτ, προσθέστε το στα αγαπημένα (βάλτε αστεράκι) στο [GitHub](https://github.com/Roshanjossey/first-contributions). 
+Αν νιώθετε ακόμα περισσότερρη ευγνωμοσύνη, ακολουθήστε τον [Roshan](https://roshanjossey.github.io/) στο [Twitter](https://twitter.com/sudo__bangbang) και [GitHub](https://github.com/roshanjossey).

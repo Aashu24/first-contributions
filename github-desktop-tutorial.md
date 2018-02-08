@@ -3,7 +3,7 @@
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="200">|GitHub Desktop Edition|
+|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -110,8 +110,6 @@ Hovering over `Update from Roshanjossey/master` will show you that you are up to
 |[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 ## Where to go from here?
-
-You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
 
 You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
 
